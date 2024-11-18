@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ABC\\Desktop\\folder\\Program za Ispis Imena\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{146A3A83-604C-4857-9DC7-ABE5787F2369}|Program za Ispis Imena\\Program za Ispis Imena.csproj|c:\\users\\abc\\desktop\\folder\\program za ispis imena\\program za ispis imena\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{146A3A83-604C-4857-9DC7-ABE5787F2369}|Program za Ispis Imena\\Program za Ispis Imena.csproj|solutionrelative:program za ispis imena\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ABC\\Desktop\\folder\\Program za Ispis Imena\\Program za Ispis Imena\\Program.cs",
+              "RelativeDocumentMoniker": "Program za Ispis Imena\\Program.cs",
+              "ToolTip": "C:\\Users\\ABC\\Desktop\\folder\\Program za Ispis Imena\\Program za Ispis Imena\\Program.cs",
+              "RelativeToolTip": "Program za Ispis Imena\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T13:56:16.138Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
